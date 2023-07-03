@@ -1,5 +1,9 @@
-using system;
-if ("dis" is "C#")
+using System;
+
+namespace Twitch-Toolbox
 {
-  Console.WriteLine("Nice");  
+    public static class Program
+    {
+        string Name = "Fake file for C# detection"
+    }
 }
