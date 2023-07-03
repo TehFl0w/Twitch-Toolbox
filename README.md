@@ -62,7 +62,8 @@ Nach dem ersten Start wird eine `config.cfg` im Ordner angelegt, trage einfach d
 * Du musst eine [App auf Twitch registrieren](https://dev.twitch.tv/docs/authentication/register-app/) um dann [hier](https://twitchtokengenerator.com) deinen Access-Token zu generieren. Wähle unten `Select All` um alle Scopes auszuwählen, ansonsten werden einige Funktionen nicht laufen.
 * Unter Channel trägst du die Kanäle ein, denen du mein start automatisch beitreten möchtest, mit komma getrennt -> `channels=channel1,channel2,channel3`
 
-Wenn alles korrekt eingetragen ist ist die Toolbox einsatzbereit.
+Wenn alles korrekt eingetragen ist ist die Toolbox einsatzbereit.<br>
+Wie du das Programm benutzt kannst du in der [Einführung](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/docs/quickstart.md) nachlesen.
 
 ## Warum Closed-Source?
 Auch wenn ich prinzipiell nichts dagegen habe den Quellcode offen zu legen weiß ich, dass viele Funktionen sehr einfach missbräuchlich umgeschrieben werden können und das möchte ich nicht. Ausserdem bin ich kein Fan davon wenn man sich mit fremden Lorbeeren schmückt... Ich will hiermit Streamern und deren Moderatoren den Kampf gegen die Windmühlen des Hasses erleichtern und nicht umgekehrt. Wenn du Fragen hast schau einfach bei mir im Stream vorbei.
