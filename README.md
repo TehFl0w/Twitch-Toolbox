@@ -41,6 +41,7 @@ Und so wirklich eine alternative gibt es ja nicht. Jaja Chatty und co. aber das 
 * Die Lizenz berechtigt zur Einzelnutzung der Twitch-Toolbox im Rahmen eines normalen Gebrauchs. Es dürfen keinerlei Änderungen und Übersetzungen oder weitere Vervielfältigungen der Twitch-Toolbox geschehen, auch nicht teilweise oder vorübergehend, gleich welcher Art und mit welchen Mitteln.
 * Die Twitch-Toolbox darf weder vermieten noch verleihen werden.
 * Auch darf die Twitch-Toolbox weder zurückentwickelt (Reverse Engineering), dekompiliert noch disassembliert werden.
+* Missbrauch der Software zum trollen, verängstigen oder sonstwie schädigen von anderen Nutzern ist zu unterlassen.
 
 ## Haftungsausschluss
 * Die Software wird "so wie sie ist" ohne irgendwelche Gewährleistungen bereitgestellt.
