@@ -46,7 +46,6 @@ Und so wirklich eine alternative gibt es ja nicht. Jaja Chatty und co. aber das 
 ## Haftungsausschluss
 * Die Software wird "so wie sie ist" ohne irgendwelche Gewährleistungen bereitgestellt.
 * Benutzung der Software geschieht auf eigene Gefahr, ich übernehme keine Verantwortung für eventuelle Schäden durch die Software oder falsche Handhabung derer.
-* Missbrauch der Software durch z.B. trollen, anderen Nutzern angst machen und der gleichen ist zu unterlassen.
 
 ## Voraussetzungen
 Ehh 
