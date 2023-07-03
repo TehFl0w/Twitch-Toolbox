@@ -40,7 +40,7 @@ Und so wirklich eine alternative gibt es ja nicht. Jaja Chatty und co. aber das 
 ## Nutzungsrecht / Lizenz
 * Ich gewähre ein unentgeltliches, zeitlich nicht befristetes und nicht ausschließliches Recht zur Nutzung (Lizenz) dieser SOFTWARE (nachstehend "Twitch-Toolbox“ genannt) Die Lieferung des Quellcodes gehört nicht zum Lieferumfang.
 * Die Lizenz berechtigt zur Einzelnutzung der Twitch-Toolbox im Rahmen eines normalen Gebrauchs. Es dürfen keinerlei Änderungen und Übersetzungen oder weitere Vervielfältigungen der Twitch-Toolbox geschehen, auch nicht teilweise oder vorübergehend, gleich welcher Art und mit welchen Mitteln.
-* Die Twitch-Toolbox darf weder vermieten noch verliehen werden.
+* Die Twitch-Toolbox darf weder vermietet noch verliehen werden.
 * Auch darf die Twitch-Toolbox weder zurückentwickelt (Reverse Engineering), dekompiliert noch disassembled werden.
 * Missbrauch der Software in jedweder Form aber insbesondere zum trollen, verängstigen oder sonstwie schädigen von anderen Nutzern oder der Plattform ist zu unterlassen und strafbar!
 * Durch die Nutzung der Twitch-Toolbox stimmt der Endnutzer automatisch diesen Bedingungen zu, es benötigt kein seperates akzeptieren eines Lizenzvertrages.
@@ -61,7 +61,7 @@ Die Toolbox ist "portable" und muss nicht klassisch installiert werden, schmeiß
 Beim ersten Start wirst du nach deinen Login-Daten gefragt:
 * Username sollte klar sein
 * Du musst eine [App auf Twitch registrieren](https://dev.twitch.tv/docs/authentication/register-app/) und die `Client-ID` und das `Secret` eintragen
-* Unter Channel trägst du die Kanäle ein, denen du beim start automatisch beitreten möchtest. 
+* Unter Channel trägst du die Kanäle ein, denen du beim Start automatisch beitreten möchtest. 
 
 Wenn alles korrekt eingetragen ist ist die Toolbox einsatzbereit.<br><br>
 Wie du das Programm benutzt kannst du in der [Einführung](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/docs/quickstart.md) nachlesen.
