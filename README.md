@@ -7,8 +7,6 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 <br>
 <div align=center>
 
-![GitHub all releases](https://img.shields.io/github/downloads/tehfl0w/twitch-toolbox/total) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/tehfl0w/twitch-toolbox/latest/total)
-
 <br>
 
 ⚠⚠⚠ _**Diese Software befindet sich in der Entwicklung, erwarte Abstürze, Fehler usw.**_ ⚠⚠⚠
