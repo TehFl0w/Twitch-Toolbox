@@ -33,7 +33,8 @@ Und so wirklich eine alternative gibt es ja nicht. Jaja Chatty und co. aber das 
 * Follow-Remover (In einem gewählen Zeitraum oder alle potentiellen Bots, geht nur als Streamer)
 * Bannen von einzelnen Nutzern und ganzen Listen über mehrere Kanäle hinweg
 * Bannen der gesammten Community eines anderen Streamers
-* User können auf eine interne "Verdächtigenliste" mit der Möglichkeit zum Export gesetzt werden
+* Erkennen und Bannen von Seller-Bots "Buy Prime, Viewer blablabla"
+* User können auf eine interne "Verdächtigenliste" mit der Möglichkeit zum Export/Teilen gesetzt werden
 * Sortieren von Listen als .txt Datei
 
 ## Nutzungsrecht / Lizenz
