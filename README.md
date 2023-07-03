@@ -68,7 +68,7 @@ Wenn alles korrekt eingetragen ist ist die Toolbox einsatzbereit.
 Auch wenn ich prinzipiell nichts dagegen habe den Quellcode offen zu legen weiß ich, dass viele Funktionen sehr einfach missbräuchlich umgeschrieben werden können und das möchte ich nicht. Ausserdem bin ich kein Fan davon wenn man sich mit fremden Lorbeeren schmückt... Ich will hiermit Streamern und deren Moderatoren den Kampf gegen die Windmühlen des Hasses erleichtern und nicht umgekehrt. Wenn du Fragen hast schau einfach bei mir im Stream vorbei.
 
 ## Danksagung
-* [Institus für Sicherheit und Datenanalyse im Streaming](https://isds.tech/)
+* [Institut für Sicherheit und Datenanalyse im Streaming](https://isds.tech/)
 * TwitchMods DACH
 
 ## Sonstiges
