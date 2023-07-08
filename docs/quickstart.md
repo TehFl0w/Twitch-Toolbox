@@ -17,7 +17,8 @@ Die meisten Sachen sollten selbsterklärend sein, jeder Knopf besitzt aber auch 
 
 ## Chat-Tab
 Der Chat-Tab funktioniert wie ein Chat-Client, du kannst Chatten und in der Leiste rechts die User im Chatraum sehen.<br>
-Wenn du Moderator bist kannst du auch Einstellungen am Chat vornehmen und z.B. User timeouten oder bannen.<br><br>
+Wenn du Moderator bist kannst du auch Einstellungen am Chat vornehmen und z.B. User timeouten oder bannen.<br>
+Farben der Nutzer im Chat: Gelb=Streamer | Grün=Mod | Pink=VIP | Türkis=Chatbots | Orange=Bots | Rot=Blacklist/Hater/Troll<br><br>
 [![https://github.com/TehFl0w/Twitch-Toolbox/blob/main/images/window_chat.PNG?raw=true](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/images/window_chat.PNG?raw=true)]()
 <br>
 [![https://github.com/TehFl0w/Twitch-Toolbox/blob/main/images/window_chat_tools.PNG?raw=true](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/images/window_chat_tools.PNG?raw=true)]()
