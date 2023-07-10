@@ -6,6 +6,11 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 
 <br>
 <div align=center>
+  
+⚠⚠⚠ _**Diese Software befindet sich in der Entwicklung, erwarte Abstürze, Fehler usw.**_ ⚠⚠⚠
+  <br>
+  <br>
+  
 <img src="https://img.shields.io/badge/Windows%20x64-grey?logo=windows&labelColor=%23323232&color=%23424242" style="max-height: 300px;">  
 <img src="https://img.shields.io/badge/.NET%206.0-grey?logo=.net&labelColor=%23323232&color=%23424242" style="max-height: 300px;">  
 <img src="https://img.shields.io/badge/cSharp-grey?logo=sharp&labelColor=%23323232&color=%23424242" style="max-height: 300px;"> 
@@ -18,7 +23,7 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 <br>
 <br>
   
-⚠⚠⚠ _**Diese Software befindet sich in der Entwicklung, erwarte Abstürze, Fehler usw.**_ ⚠⚠⚠
+-> [VirusTotal aktuelles Release](https://www.virustotal.com/gui/file/bd0b43f93cdca7afb5a8cab4c1a1174dead333bfba0d315ca5f0001b5b55278d) <-
 </div>
 
 ## Über
