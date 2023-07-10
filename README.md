@@ -13,7 +13,8 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 <img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/total" style="max-height: 300px;"> 
 <img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/latest/total" style="max-height: 300px;"> 
 <br>
-<a href="https://www.twitch.tv/tehfl0w"><img src="https://img.shields.io/twitch/status/tehfl0w?logo=twitch" style="max-height: 300px;"></a>
+<br>  
+<a href="https://www.twitch.tv/tehfl0w"><img src="https://img.shields.io/twitch/status/tehfl0w?logo=twitch&label=Twitch-Stream" style="max-height: 300px;"></a>
 <br>
 <br>
   
