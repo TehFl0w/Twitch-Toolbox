@@ -6,15 +6,15 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 
 <br>
 <div align=center>
-<img src="https://img.shields.io/badge/Windows%20x64-grey.svg?logo=windows" style="max-height: 300px;">  
-<img src="https://img.shields.io/badge/.NET%206.0-grey.svg?logo=.net" style="max-height: 300px;">  
-<img src="https://img.shields.io/badge/cSharp-grey.svg?logo=sharp" style="max-height: 300px;"> 
+<img src="https://img.shields.io/badge/Windows%20x64-grey?logo=windows&labelColor=%23323232&color=%23424242" style="max-height: 300px;">  
+<img src="https://img.shields.io/badge/.NET%206.0-grey?logo=.net&labelColor=%23323232&color=%23424242" style="max-height: 300px;">  
+<img src="https://img.shields.io/badge/cSharp-grey?logo=sharp&labelColor=%23323232&color=%23424242" style="max-height: 300px;"> 
 <br> 
-<img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/total" style="max-height: 300px;"> 
-<img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/latest/total" style="max-height: 300px;"> 
+<img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/total?labelColor=%23323232&color=%2300CC00" style="max-height: 300px;"> 
+<img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/latest/total?labelColor=%23323232&color=%2300CC00" style="max-height: 300px;"> 
 <br>
 <br>  
-<a href="https://www.twitch.tv/tehfl0w"><img src="https://img.shields.io/twitch/status/tehfl0w?logo=twitch&label=Twitch-Stream%3A&color=grey" style="max-height: 300px;"></a>
+<a href="https://www.twitch.tv/tehfl0w"><img src="https://img.shields.io/twitch/status/tehfl0w?logo=twitch&label=Twitch-Stream%3A&labelColor=%23323232&color=%23424242" style="max-height: 300px;"></a>
 <br>
 <br>
   
