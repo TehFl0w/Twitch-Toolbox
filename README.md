@@ -54,16 +54,17 @@ Ehh
 * Windows 7/8/10/11
 * ein Prozessor
 * ca. 80 MB Ram
-* Eine Internetverbindung
+* eine Internetverbindung
 
 ## Installation
 Die Toolbox ist "portable" und muss nicht klassisch installiert werden, schmeiß die .exe einfach in einen Ordner deiner Wahl, um alles andere kümmert sich das Programm von selbst.
 Beim ersten Start wirst du nach deinen Login-Daten gefragt:
 * Username sollte klar sein
-* Du musst eine [App auf Twitch registrieren](https://dev.twitch.tv/docs/authentication/register-app/) und die `Client-ID` und das `Secret` eintragen
-* Unter Channel trägst du die Kanäle ein, denen du beim Start automatisch beitreten möchtest. 
+* Du musst eine [App auf Twitch registrieren](https://dev.twitch.tv/docs/authentication/register-app/) und die `Redirect URL` auf `http://localhost:300/` stellen: [BEISPIEL](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/images/twitchapp.png)
+* Mit der `Client-ID` und dem `Secret` deiner App kannst du dich dann über die Toolbox einloggen.
+* Unter Channel trägst du die Kanäle ein, denen du beim Start automatisch beitreten möchtest, einer pro Zeile. 
 
-Wenn alles korrekt eingetragen ist ist die Toolbox einsatzbereit.<br><br>
+Wenn alles korrekt eingetragen ist kannst du dich authorisieren und loslegen!<br><br>
 Wie du das Programm benutzt kannst du in der [Einführung](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/docs/quickstart.md) nachlesen.
 
 ## Warum Closed-Source?
