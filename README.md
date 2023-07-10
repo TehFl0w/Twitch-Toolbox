@@ -6,11 +6,14 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 
 <br>
 <div align=center>
-<img src="https://img.shields.io/badge/Platform-.NET%206.0-lightgrey.svg" style="max-height: 300px;">  
-<img src="https://img.shields.io/badge/Language-cSharp-green.svg" style="max-height: 300px;">  
+<img src="https://img.shields.io/badge/OS-Windows%20x64-lightgrey.svg?logo=windows" style="max-height: 300px;">  
+<img src="https://img.shields.io/badge/Platform-.NET%206.0-lightgrey.svg?logo=.net" style="max-height: 300px;">  
+<img src="https://img.shields.io/badge/Language-cSharp-green.svg?logo=sharp" style="max-height: 300px;"> 
+<br> 
 <img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/total" style="max-height: 300px;"> 
 <img src="https://img.shields.io/github/downloads/TehFl0w/Twitch-Toolbox/latest/total" style="max-height: 300px;"> 
-<a href="https://www.twitch.tv/tehfl0w"><img src="https://img.shields.io/badge/Twitch-TehFl0w-purple.svg" style="max-height: 300px;"></a>
+<br>
+<a href="https://www.twitch.tv/tehfl0w"><img src="https://img.shields.io/twitch/status/tehfl0w?logo=twitch" style="max-height: 300px;"></a>
 <br>
 <br>
   
