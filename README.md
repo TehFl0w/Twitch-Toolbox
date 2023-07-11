@@ -27,7 +27,7 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 </div>
 
 ## Über
-Die Twitch-Toolbox ermöglichst Streamern und Moderatoren mehrere Kanäle gleichzeitig zu moderieren und verwalten.
+Die Twitch-Toolbox ermöglicht Streamern und Moderatoren mehrere Kanäle gleichzeitig zu moderieren und verwalten.
 Als Basis dient eine vom Institut für Sicherheit und Datenanalyse im Streaming gepflegte Datenbank mit bekannten Hatern, Trollen und sonstigen Nutzern, die sich "daneben" benehmen.
 <br><br>
 Das ist ein reines Hobby-Projekt, ich arbeite weder mit noch für Twitch.
