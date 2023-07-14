@@ -23,7 +23,7 @@ Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kan
 <br>
 <br>
   
--> [VirusTotal aktuelles Release](https://www.virustotal.com/gui/file/954b530b293ea475943087282598343c80aeae1a6ad991af33a15750e392b492) <-
+-> [VirusTotal aktuelles Release](https://www.virustotal.com/gui/file/0de1f6d21eb7e31d221305157c80d0dc4ea3d7727017484c431ed0bb0c2972b9) <-
 </div>
 
 ## Über
