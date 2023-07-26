@@ -1,6 +1,8 @@
 
 <div align=center style="text-align: center">
-<h1 style="text-align: center"> Twitch-Toolbox </h1>
+  <p align="center">
+  <img src="https://github.com/TehFl0w/Twitch-Toolbox/blob/main/title.png?raw=true" height="200p">  
+  </p>
 Ein Moderationsprogramm und Chatbot zur einfachen Verwaltung mehrerer Twitch-Kanäle.
 </div>
 
