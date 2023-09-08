@@ -76,7 +76,7 @@ Ehh
 Die Toolbox ist "portable" und muss nicht klassisch installiert werden, schmeiß die .exe einfach in einen Ordner deiner Wahl, um alles andere kümmert sich das Programm von selbst.
 Beim ersten Start wirst du nach deinen Login-Daten gefragt:
 * Username sollte klar sein
-* Du musst eine [App auf Twitch registrieren](https://dev.twitch.tv/docs/authentication/register-app/) und die `Redirect URL` auf `http://localhost:3000/` stellen: [BEISPIEL](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/images/twitchapp.png)
+* Du musst eine [App auf Twitch registrieren](https://dev.twitch.tv/docs/authentication/register-app/) (Doku, Englisch) -> [DIREKTLINK ZUM ERSTELLEN](https://dev.twitch.tv/console/apps) <- <br>und die `Redirect URL` auf `http://localhost:3000/` stellen: [BEISPIEL](https://github.com/TehFl0w/Twitch-Toolbox/blob/main/images/twitchapp.png)
 * Mit der `Client-ID` und dem `Secret` deiner App kannst du dich dann über die Toolbox einloggen.
 * Unter Channel trägst du die Kanäle ein, denen du beim Start automatisch beitreten möchtest, einer pro Zeile. 
 
